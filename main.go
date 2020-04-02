@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/reflection/tmp/hoge"
+	"github.com/vikke/go_reflection/tmp/hoge"
 	"log"
 	"reflect"
 )
